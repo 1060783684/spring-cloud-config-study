@@ -1,0 +1,8 @@
+info:
+  profile: default
+
+# 加密配置test
+spring: 
+  datasource:
+    username: didi
+    password: AQBbez/XthniDQ8l301nKgeJP1U1ovYZj6DfONuPgNssYQF8ga0MW6iHO67q9hUTowbnH6vbZ6oXwZ+7QBQ1OG+p0WnT2xyC/sghf5+3bA2zIsOLENW/11zQxUZusp2TquFtd4FOxeevXFMLFJRzin22E/HfgxYmmNGcNf5IAjhNNmPIEHResyVj7A6pYErRhhOQh9VFn5Q6tNfHBAxwoRWNaAl5YNM/ObXgfxvwcNeOyPjMFjFqMIPxShFE/MUsg0vO6RcYQucBmYvhJ81zBBPbTH3DmptUa+6CrpgMwuK3QeG95pxOY1hpGTGzA/MMZtrZKs1BQ3jMi+Qd+BmHVGKhJxzF3A8u14IVU3N1fyTuPxMsA1Kf3GFaSitwrFdMlmM=
